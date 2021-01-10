@@ -1,0 +1,6 @@
+C:\Users\maksi\Desktop\C-Sharp-Practice\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe
+C:\Users\maksi\Desktop\C-Sharp-Practice\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.pdb
+C:\Users\maksi\Desktop\C-Sharp-Practice\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\C-Sharp-Practice\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\C-Sharp-Practice\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.exe
+C:\Users\maksi\Desktop\C-Sharp-Practice\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.pdb
