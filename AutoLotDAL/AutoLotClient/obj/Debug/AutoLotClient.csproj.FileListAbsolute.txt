@@ -1,0 +1,15 @@
+C:\Users\maksi\Desktop\C-Sharp-Practice\AutoLotDAL\AutoLotClient\bin\Debug\AutoLotClient.exe
+C:\Users\maksi\Desktop\C-Sharp-Practice\AutoLotDAL\AutoLotClient\bin\Debug\AutoLotClient.pdb
+C:\Users\maksi\Desktop\C-Sharp-Practice\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\C-Sharp-Practice\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\C-Sharp-Practice\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.exe
+C:\Users\maksi\Desktop\C-Sharp-Practice\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.pdb
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotClient\bin\Debug\AutoLotClient.exe
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotClient\bin\Debug\AutoLotClient.pdb
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotClient\bin\Debug\AutoLotDAL.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotClient\bin\Debug\AutoLotDAL.pdb
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.csproj.CopyComplete
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.exe
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotClient\obj\Debug\AutoLotClient.pdb

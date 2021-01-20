@@ -1,0 +1,6 @@
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.pdb

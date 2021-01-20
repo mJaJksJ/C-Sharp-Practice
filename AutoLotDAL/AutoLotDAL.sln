@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL", "AutoLotDAL\AutoLotDAL.csproj", "{C0C74B9D-6471-4EE1-824F-01B1015BF08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotClient", "AutoLotClient\AutoLotClient.csproj", "{DC773ED3-49CF-44BF-A83A-77CA2B8536D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C74B9D-6471-4EE1-824F-01B1015BF08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C74B9D-6471-4EE1-824F-01B1015BF08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C74B9D-6471-4EE1-824F-01B1015BF08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C74B9D-6471-4EE1-824F-01B1015BF08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC773ED3-49CF-44BF-A83A-77CA2B8536D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC773ED3-49CF-44BF-A83A-77CA2B8536D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC773ED3-49CF-44BF-A83A-77CA2B8536D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC773ED3-49CF-44BF-A83A-77CA2B8536D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
