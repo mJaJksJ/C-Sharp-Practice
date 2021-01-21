@@ -1,0 +1,13 @@
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.exe.config
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.exe
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.pdb
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.csproj.CopyComplete
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.exe
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.pdb
