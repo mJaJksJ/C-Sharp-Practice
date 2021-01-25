@@ -1,0 +1,12 @@
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDAL_EF\bin\Debug\AutoLotDAL_EF.dll.config
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDAL_EF\bin\Debug\AutoLotDAL_EF.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDAL_EF\bin\Debug\AutoLotDAL_EF.pdb
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDAL_EF\bin\Debug\EntityFramework.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDAL_EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDAL_EF\bin\Debug\EntityFramework.xml
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDAL_EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDAL_EF\obj\Debug\AutoLotDAL_EF.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDAL_EF\obj\Debug\AutoLotDAL_EF.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDAL_EF\obj\Debug\AutoLotDAL_EF.csproj.CopyComplete
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDAL_EF\obj\Debug\AutoLotDAL_EF.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDAL_EF\obj\Debug\AutoLotDAL_EF.pdb

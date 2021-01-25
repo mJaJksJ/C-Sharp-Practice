@@ -1,0 +1,15 @@
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\bin\Debug\AutoLotDalTest.exe.config
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\bin\Debug\AutoLotDalTest.exe
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\bin\Debug\AutoLotDalTest.pdb
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\bin\Debug\AutoLotDAL_EF.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\bin\Debug\EntityFramework.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\bin\Debug\AutoLotDAL_EF.pdb
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\bin\Debug\AutoLotDAL_EF.dll.config
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\bin\Debug\EntityFramework.xml
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\obj\Debug\AutoLotDalTest.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\obj\Debug\AutoLotDalTest.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\obj\Debug\AutoLotDalTest.csproj.CopyComplete
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\obj\Debug\AutoLotDalTest.exe
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotDAL_EF\AutoLotDalTest\obj\Debug\AutoLotDalTest.pdb
