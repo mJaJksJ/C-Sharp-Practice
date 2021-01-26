@@ -73,3 +73,7 @@ C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotMVC\AutoLotMVC\o
 C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotMVC\AutoLotMVC\obj\Debug\AutoLotMVC.csproj.CopyComplete
 C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotMVC\AutoLotMVC\obj\Debug\AutoLotMVC.dll
 C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotMVC\AutoLotMVC\obj\Debug\AutoLotMVC.pdb
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotMVC\AutoLotMVC\bin\EntityFramework.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotMVC\AutoLotMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotMVC\AutoLotMVC\bin\EntityFramework.xml
+C:\Users\maksi\Desktop\6 семестр\C-Sharp-Practice\AutoLotMVC\AutoLotMVC\bin\EntityFramework.SqlServer.xml
